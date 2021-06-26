@@ -4,7 +4,7 @@
 % Author: Mahmoud Moqadam, M.Sc of Amirkabir University of Technology    %
 % Contact information: Moqadam@aut.ac.ir (Mahmoud Moqadam)               %
 % Date: 2013                                                             %
-%% -----------------------------------------------------------------------
+% -----------------------------------------------------------------------
 % Application of the Code:
 % Calculation of
 %   1. Thermodynamic parameters
@@ -73,7 +73,7 @@
 % x                   TETAs and Flow Rates  
 % xf                  flow rate (output from solver)
 % -----------------------------------------------------------------------
-%% Start the Program
+% Start the Program
 function Final_Micro_Kinetic_Q_and_Reac_finished
 clear
 clc
