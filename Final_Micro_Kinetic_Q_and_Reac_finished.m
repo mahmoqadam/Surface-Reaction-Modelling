@@ -4,7 +4,7 @@
 % Author: Mahmoud Moqadam, M.Sc of Amirkabir University of Technology    %
 % Contact information: Moqadam@aut.ac.ir (Mahmoud Moqadam)               %
 % Date: 2013                                                             %
-%% ------------------------------------------------------------------------
+%% -----------------------------------------------------------------------
 % Application of the Code:
 % Calculation of
 %   1. Thermodynamic parameters
@@ -213,7 +213,7 @@ disp('-***-');
 % function of error to optimize        
     function error=obj(Q_metal_atom)
         
-% Calculation of Metal–atom bonding Q0_A
+% Calculation of MetalÂ–atom bonding Q0_A
 disp('-----------------');
 disp('-----------------');
 display(Q_metal_atom);
